@@ -4,13 +4,6 @@ ATM (Automated Teller Machine) was designed using Verilog and implemented on the
 
 In the project, there is a login operation where the user first should insert their debit card and then enter their own password. After having entered the password correctly, a user may: 1) deposit/withdraw money to/from their account, 2) change the password of the account, and 3) log out from the ATM.
 
-This project was developed for the CS303 - Logic & Digital System Design course at Sabanci University.
-
-## Contributors
-
-- Alp Cihan
-
-- Begüm Çelik
 
 ## Modules
 
